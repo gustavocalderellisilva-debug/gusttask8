@@ -3,6 +3,7 @@ body{
     background-color: rgb(116, 164, 236);
     margin:0px;
     font-family: "Oswald", sans-serif;
+    margin-bottom: 100px;
 }
 
 header{
@@ -32,4 +33,12 @@ img{
 }
 .categoria-videos img{
     opacity: 0,5;  
+    height: 200px;
+}
+.categoria-videos img;:hover{
+    opacity: 1,0;
+    border: 1px solid red;
+}
+.categoria-h2{
+    color: rgb(245, 245, 220);
 }
